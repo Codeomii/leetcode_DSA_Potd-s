@@ -32,9 +32,9 @@ Constraints:
 1 <= positions.length == healths.length == directions.length == n <= 105
 1 <= positions[i], healths[i] <= 109
 directions[i] == 'L' or directions[i] == 'R'
-All values in positions are distinct '''
+All values in positions are distinct'''
 
-# solution :- 
+# Solution :- 
 
 from typing import List
 
