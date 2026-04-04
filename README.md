@@ -51,6 +51,7 @@ DSA-POTD/
 | 1   | 01-04-2026 | ✅     | Robot Collisions | Done   |
 | 2   | 02-04-2026 | ✅     | Maximum Amount of Money Robot Can Earn| Done   |
 | 3   | 03-04-2026 | ✅     |Maximum Walls Destroyed by Robots| Done  |
+| 4   | 04-04-2026 | ✅     |Decode the Slanted Ciphertext| Done  |
 
 > 📌 Updating this daily...
 
