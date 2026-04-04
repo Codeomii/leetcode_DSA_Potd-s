@@ -46,12 +46,12 @@ DSA-POTD/
 
 ## 📅 Progress Tracker
 
-| Day | Date       | Problem | Topic | Status |
-|-----|------------|--------|------|--------|
-| 1   | 01-04-2026 | ✅     | Robot Collisions | Done   |
-| 2   | 02-04-2026 | ✅     | Maximum Amount of Money Robot Can Earn| Done   |
-| 3   | 03-04-2026 | ✅     |Maximum Walls Destroyed by Robots| Done  |
-| 4   | 04-04-2026 | ✅     |Decode the Slanted Ciphertext| Done  |
+| Day | Date       | Leetcode Problem | Topic |Source| Status |
+|-----|------------|--------|------|--------|--------|
+| 1   | 01-04-2026 |2751  | Robot Collisions |[Link🔗](https://leetcode.com/problems/robot-collisions/description/?envType=daily-question&envId=2026-04-01)| Done   |
+| 2   | 02-04-2026 | 3418  | Maximum Amount of Money Robot Can Earn|[Link🔗](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/description/?envType=daily-question&envId=2026-04-02)| Done   |
+| 3   | 03-04-2026 | 3661 |Maximum Walls Destroyed by Robots|[Link🔗](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/description/?envType=daily-question&envId=2026-04-03)| Done  |
+| 4   | 04-04-2026 |2075  |Decode the Slanted Ciphertext|[Link🔗](https://leetcode.com/problems/decode-the-slanted-ciphertext/description/?envType=daily-question&envId=2026-04-04)| Done  |
 
 > 📌 Updating this daily...
 
