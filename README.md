@@ -53,6 +53,7 @@ DSA-POTD/
 | 3   | 03-04-2026 | 3661  |Maximum Walls Destroyed by Robots|[Link🔗](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/description/?envType=daily-question&envId=2026-04-03)| Done  |
 | 4   | 04-04-2026 | 2075  |Decode the Slanted Ciphertext|[Link🔗](https://leetcode.com/problems/decode-the-slanted-ciphertext/?envType=daily-question&envId=2026-04-04)| Done  |
 | 5   | 05-04-2026 | 657   |Robot Return to Origin|[Link🔗](https://leetcode.com/problems/robot-return-to-origin/description/?envType=daily-question&envId=2026-04-05)|Done  |
+| 6   | 06-04-2026 | 874  |Walking Robot Simulation|[Link🔗](https://leetcode.com/problems/walking-robot-simulation/description/?envType=daily-question&envId=2026-04-06)|Done|
 
 > 📌 Updating this daily...
 
