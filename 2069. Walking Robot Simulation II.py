@@ -51,6 +51,9 @@ At most 104 calls in total will be made to step, getPos, and getDir.'''
 
 #Solution:--
 
+from typing import List
+
+
 class Robot:
 
     TO_DIR = {
