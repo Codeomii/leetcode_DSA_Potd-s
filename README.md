@@ -54,6 +54,9 @@ DSA-POTD/
 | 4   | 04-04-2026 | 2075  |Decode the Slanted Ciphertext|[Link🔗](https://leetcode.com/problems/decode-the-slanted-ciphertext/?envType=daily-question&envId=2026-04-04)| Done  |
 | 5   | 05-04-2026 | 657   |Robot Return to Origin|[Link🔗](https://leetcode.com/problems/robot-return-to-origin/description/?envType=daily-question&envId=2026-04-05)|Done  |
 | 6   | 06-04-2026 | 874  |Walking Robot Simulation|[Link🔗](https://leetcode.com/problems/walking-robot-simulation/description/?envType=daily-question&envId=2026-04-06)|Done|
+| 7   | 07-04-2026 | 2069  |Walking Robot Simulation II |[Link🔗](https://leetcode.com/problems/walking-robot-simulation-ii/description/?envType=daily-question&envId=2026-04-07)|Done|
+| 8   | 08-04-2026 | 3653  |XOR After Range Multiplication Queries I |[Link🔗](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/description/?envType=daily-question&envId=2026-04-08)|Done|
+| 9   | 09-04-2026 | 3655  |XOR After Range Multiplication Queries II |[Link🔗](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/description/?envType=daily-question&envId=2026-04-09)|Done|
 
 > 📌 Updating this daily...
 
