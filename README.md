@@ -57,7 +57,10 @@ DSA-POTD/
 | 7   | 07-04-2026 | 2069  |Walking Robot Simulation II |[Link🔗](https://leetcode.com/problems/walking-robot-simulation-ii/description/?envType=daily-question&envId=2026-04-07)|Done|
 | 8   | 08-04-2026 | 3653  |XOR After Range Multiplication Queries I |[Link🔗](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/description/?envType=daily-question&envId=2026-04-08)|Done|
 | 9   | 09-04-2026 | 3655  |XOR After Range Multiplication Queries II |[Link🔗](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/description/?envType=daily-question&envId=2026-04-09)|Done|
-| 10   | 10-04-2026 | 3655  |3740. Minimum Distance Between Three Equal Elements I |[Link🔗](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/description/?envType=daily-question&envId=2026-04-10)|Done|
+| 10   | 10-04-2026 | 3655  |Minimum Distance Between Three Equal Elements I |[Link🔗](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/description/?envType=daily-question&envId=2026-04-10)|Done|
+| 11   | 11-04-2026 | 3741  |Minimum Distance Between Three Equal Elements II |[Link🔗](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/description/?envType=daily-question&envId=2026-04-11)|Done|
+| 12   | 12-04-2026 | 1320  |Minimum Distance to Type a Word Using Two Fingers |[Link🔗](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/description/?envType=daily-question&envId=2026-04-12)|Done|
+
 > 📌 Updating this daily...
 
 ---
