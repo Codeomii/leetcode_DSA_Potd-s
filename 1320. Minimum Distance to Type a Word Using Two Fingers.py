@@ -55,3 +55,4 @@ class Solution:
             dp = new
 
         return res - max(dp)
+    
