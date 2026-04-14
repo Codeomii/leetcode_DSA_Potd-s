@@ -60,6 +60,8 @@ DSA-POTD/
 | 10   | 10-04-2026 | 3655  |Minimum Distance Between Three Equal Elements I |[Link🔗](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/description/?envType=daily-question&envId=2026-04-10)|Done|
 | 11   | 11-04-2026 | 3741  |Minimum Distance Between Three Equal Elements II |[Link🔗](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/description/?envType=daily-question&envId=2026-04-11)|Done|
 | 12   | 12-04-2026 | 1320  |Minimum Distance to Type a Word Using Two Fingers |[Link🔗](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/description/?envType=daily-question&envId=2026-04-12)|Done|
+| 13   | 13-04-2026 | 1848  |Minimum Distance to the Target Element |[Link🔗](https://leetcode.com/problems/minimum-distance-to-the-target-element/description/?envType=daily-question&envId=2026-04-13)|Done|
+| 14   | 14-04-2026 | 2463  |Minimum Total Distance Traveled|[Link🔗](https://leetcode.com/problems/minimum-total-distance-traveled/description/?envType=daily-question&envId=2026-04-14)|Done|
 
 > 📌 Updating this daily...
 
