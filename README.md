@@ -63,6 +63,8 @@ DSA-POTD/
 | 13   | 13-04-2026 | 1848  |Minimum Distance to the Target Element |[Link🔗](https://leetcode.com/problems/minimum-distance-to-the-target-element/description/?envType=daily-question&envId=2026-04-13)|Done|
 | 14   | 14-04-2026 | 2463  |Minimum Total Distance Traveled|[Link🔗](https://leetcode.com/problems/minimum-total-distance-traveled/description/?envType=daily-question&envId=2026-04-14)|Done|
 | 15   | 15-04-2026 |2515   |Shortest Distance to Target String in a Circular Array|[Link🔗](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/description/?envType=daily-question&envId=2026-04-15)|Done|
+| 16   | 16-04-2026 |3488   |Closest Equal Element Queries|[Link🔗](https://leetcode.com/problems/closest-equal-element-queries/description/?envType=daily-question&envId=2026-04-16)|Done|
+
 
 > 📌 Updating this daily...
 
