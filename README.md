@@ -30,16 +30,24 @@ This repository is my personal journey of solving **LeetCode Problem of the Day 
 ## 🗂️ Folder Structure
 
 DSA-POTD/
-│
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── Stack-Queue/
-├── Trees/
-├── Graphs/
-├── Dynamic-Programming/
-├── Backtracking/
-└── README.md
+  │
+  ├── Arrays/
+  
+  ├── Strings/
+  
+  ├── LinkedList/
+  
+  ├── Stack-Queue/
+  
+  ├── Trees/
+  
+  ├── Graphs/
+  
+  ├── Dynamic-Programming/
+  
+  ├── Backtracking/
+  
+  └── README.md
 
 
 ---
