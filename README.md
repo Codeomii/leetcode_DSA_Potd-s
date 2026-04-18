@@ -73,6 +73,7 @@ DSA-POTD/
 | 15   | 15-04-2026 |2515   |Shortest Distance to Target String in a Circular Array|[Link🔗](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/description/?envType=daily-question&envId=2026-04-15)|Done|
 | 16   | 16-04-2026 |3488   |Closest Equal Element Queries|[Link🔗](https://leetcode.com/problems/closest-equal-element-queries/description/?envType=daily-question&envId=2026-04-16)|Done|
 | 17   | 17-04-2026 |3761   |Minimum Absolute Distance Between Mirror Pairs|[Link🔗](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/description/?envType=daily-question&envId=2026-04-17)|Done|
+| 18   | 18-04-2026 |3783   |Mirror Distance of an Integer|[Link🔗](https://leetcode.com/problems/mirror-distance-of-an-integer/description/?envType=daily-question&envId=2026-04-18)|Done|
 
 
 > 📌 Updating this daily...
