@@ -74,6 +74,8 @@ DSA-POTD/
 | 16   | 16-04-2026 |3488   |Closest Equal Element Queries|[Link🔗](https://leetcode.com/problems/closest-equal-element-queries/description/?envType=daily-question&envId=2026-04-16)|Done|
 | 17   | 17-04-2026 |3761   |Minimum Absolute Distance Between Mirror Pairs|[Link🔗](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/description/?envType=daily-question&envId=2026-04-17)|Done|
 | 18   | 18-04-2026 |3783   |Mirror Distance of an Integer|[Link🔗](https://leetcode.com/problems/mirror-distance-of-an-integer/description/?envType=daily-question&envId=2026-04-18)|Done|
+| 19   | 19-04-2026 |1855   |Maximum Distance Between a Pair of Values|[Link🔗](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/description/?envType=daily-question&envId=2026-04-19)|Done|
+
 
 
 > 📌 Updating this daily...
