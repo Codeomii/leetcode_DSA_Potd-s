@@ -77,6 +77,8 @@ DSA-POTD/
 | 19   | 19-04-2026 |1855   |Maximum Distance Between a Pair of Values|[Link🔗](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/description/?envType=daily-question&envId=2026-04-19)|Done|
 | 20   | 20-04-2026 |2078   |Two Furthest Houses With Different Colors|[Link🔗](https://leetcode.com/problems/two-furthest-houses-with-different-colors/?envType=daily-question&envId=2026-04-20)|Done|
 | 21   | 21-04-2026 |1722   |Minimize Hamming Distance After Swap Operations|[Link🔗](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/?envType=daily-question&envId=2026-04-21)|Done|
+| 22   | 22-04-2026 |2452   |Words Within Two Edits of Dictionary|[Link🔗](https://leetcode.com/problems/words-within-two-edits-of-dictionary/description/?envType=daily-question&envId=2026-04-22)|Done|
+
 
 
 
