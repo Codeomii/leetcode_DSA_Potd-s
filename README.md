@@ -79,7 +79,7 @@ DSA-POTD/
 | 21   | 21-04-2026 |1722   |Minimize Hamming Distance After Swap Operations|[Link🔗](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/?envType=daily-question&envId=2026-04-21)|Done|
 | 22   | 22-04-2026 |2452   |Words Within Two Edits of Dictionary|[Link🔗](https://leetcode.com/problems/words-within-two-edits-of-dictionary/description/?envType=daily-question&envId=2026-04-22)|Done|
 | 23   | 23-04-2026 |2615   |Sum of Distances|[Link🔗](https://leetcode.com/problems/sum-of-distances/description/?envType=daily-question&envId=2026-04-23)|Done|
-
+| 24   | 24-04-2026 |2833   |Furthest Point From Origin|[Link🔗](https://leetcode.com/problems/furthest-point-from-origin/description/?envType=daily-question&envId=2026-04-24)|Done|
 
 
 
