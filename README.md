@@ -81,6 +81,7 @@ DSA-POTD/
 | 23   | 23-04-2026 |2615   |Sum of Distances|[Link🔗](https://leetcode.com/problems/sum-of-distances/description/?envType=daily-question&envId=2026-04-23)|Done|
 | 24   | 24-04-2026 |2833   |Furthest Point From Origin|[Link🔗](https://leetcode.com/problems/furthest-point-from-origin/description/?envType=daily-question&envId=2026-04-24)|Done|
 | 25   | 25-04-2026 |3464   |Maximize the Distance Between Points on a Square|[Link🔗](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/description/?envType=daily-question&envId=2026-04-25)|Done|
+| 26   | 26-04-2026 |1559   |Detect Cycles in 2D Grid|[Link🔗](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/?envType=daily-question&envId=2026-04-26)|Done|
 
 
 > 📌 Updating this daily...
