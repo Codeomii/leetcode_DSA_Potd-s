@@ -84,6 +84,7 @@ DSA-POTD/
 | 26   | 26-04-2026 |1559   |Detect Cycles in 2D Grid|[Link🔗](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/?envType=daily-question&envId=2026-04-26)|Done|
 | 27   | 27-04-2026 |1391   |Check if There is a Valid Path in a Grid|[Link🔗](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/?envType=daily-question&envId=2026-04-27)|Done|
 | 28   | 28-04-2026 |2033   |Minimum Operations to Make a Uni-Value Grid|[Link🔗](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/?envType=daily-question&envId=2026-04-28)|Done|
+| 29   | 29-04-2026 |3225   |Maximum Score From Grid Operations|[Link🔗](https://leetcode.com/problems/maximum-score-from-grid-operations/description/?envType=daily-question&envId=2026-04-29)|Done|
 
 
 > 📌 Updating this daily...
