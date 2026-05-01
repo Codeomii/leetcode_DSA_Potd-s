@@ -37,6 +37,9 @@ n == nums.length
 
 # Solution:--
 
+from typing import List
+
+
 class Solution:
     def maxRotateFunction(self, nums: List[int]) -> int:
         n = len(nums)
