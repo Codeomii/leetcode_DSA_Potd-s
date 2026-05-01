@@ -85,6 +85,8 @@ DSA-POTD/
 | 27   | 27-04-2026 |1391   |Check if There is a Valid Path in a Grid|[Link🔗](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/?envType=daily-question&envId=2026-04-27)|Done|
 | 28   | 28-04-2026 |2033   |Minimum Operations to Make a Uni-Value Grid|[Link🔗](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/description/?envType=daily-question&envId=2026-04-28)|Done|
 | 29   | 29-04-2026 |3225   |Maximum Score From Grid Operations|[Link🔗](https://leetcode.com/problems/maximum-score-from-grid-operations/description/?envType=daily-question&envId=2026-04-29)|Done|
+| 30   | 30-04-2026 |3742   |Maximum Path Score in a Grid|[Link🔗](https://leetcode.com/problems/maximum-path-score-in-a-grid/description/?envType=daily-question&envId=2026-04-30)|Done|
+| 01   | 01-05-2026 |396   |Rotate Function|[Link🔗](https://leetcode.com/problems/rotate-function/description/?envType=daily-question&envId=2026-05-01)|Done|
 
 
 > 📌 Updating this daily...
