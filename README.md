@@ -1,9 +1,41 @@
 <h1 align="center">🚀 DSA Daily POTD Journey</h1>
 
 <p align="center">
-  <b>Consistency > Motivation</b><br>
-  <i>Solving one problem every day 💪</i>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Consistency+%3E+Motivation;One+Problem+Everyday+💪;Leveling+Up+DSA+Skills+🚀;Code+Eat+Sleep+Repeat+🔁" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_Language-C++-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Platform-GFG-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-DSA-orange?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <b>💡 Small daily improvements → Big Results</b><br>
+  <i>🔥 Stay consistent. Stay unstoppable.</i>
+</p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250"/>
+</p>
+
+## 👨‍💻 About Me
+
+Hi, I'm **Om Patel** 👋  
+
+🎯 Passionate about **Data Structures & Algorithms**  
+📅 Started this journey on **01-04-2026**  
+🔥 Solving **LeetCode POTD daily** to build consistency  
+
+---
+
+## 🧠 What You'll Find Here
+
+✨ Daily LeetCode POTD solutions  
+✨ Clean & optimized code  
+✨ Topic-wise structured folders  
+✨ Consistency tracker 📈  
 
 ---
 
