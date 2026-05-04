@@ -89,6 +89,7 @@ DSA-POTD/
 | 01   | 01-05-2026 |396   |Rotate Function|[Link🔗](https://leetcode.com/problems/rotate-function/description/?envType=daily-question&envId=2026-05-01)|Done|
 | 02   | 02-05-2026 |788   |Rotated Digits|[Link🔗](https://leetcode.com/problems/rotated-digits/description/?envType=daily-question&envId=2026-05-02)|Done|
 | 03   | 03-05-2026 |796   |Rotate String|[Link🔗](https://leetcode.com/problems/rotate-string/description/?envType=daily-question&envId=2026-05-03)|Done|
+| 04   | 04-05-2026 |48   |Rotate Image|[Link🔗](https://leetcode.com/problems/rotate-image/description/?envType=daily-question&envId=2026-05-04)|Done|
 
 
 > 📌 Updating this daily...
