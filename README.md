@@ -124,7 +124,8 @@ DSA-POTD/
 | 04   | 04-05-2026 |48   |Rotate Image|[Link🔗](https://leetcode.com/problems/rotate-image/description/?envType=daily-question&envId=2026-05-04)|Done|
 | 05   | 05-05-2026 |61   |Rotate List|[Link🔗](https://leetcode.com/problems/rotate-list/description/?envType=daily-question&envId=2026-05-05)|Done|
 | 06   | 06-05-2026 |1861   |Rotating the Box|[Link🔗](https://leetcode.com/problems/rotating-the-box/description/?envType=daily-question&envId=2026-05-06)|Done
-| 07   | 07-05-2026 |3660   |Jump Game IX|[Link🔗](https://leetcode.com/problems/jump-game-ix/description/?envType=daily-question&envId=2026-05-07)|Done
+| 07   | 07-05-2026 |3660   |Jump Game IX|[Link🔗](https://leetcode.com/problems/jump-game-ix/description/?envType=daily-question&envId=2026-05-07)|Done|
+| 08   | 08-05-2026 |3629   |Minimum Jumps to Reach End via Prime Teleportation|[Link🔗](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/description/?envType=daily-question&envId=2026-05-08)|Done|
 
 
 > 📌 Updating this daily...
