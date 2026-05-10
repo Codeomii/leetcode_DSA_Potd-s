@@ -126,6 +126,8 @@ DSA-POTD/
 | 06   | 06-05-2026 |1861   |Rotating the Box|[Link🔗](https://leetcode.com/problems/rotating-the-box/description/?envType=daily-question&envId=2026-05-06)|Done
 | 07   | 07-05-2026 |3660   |Jump Game IX|[Link🔗](https://leetcode.com/problems/jump-game-ix/description/?envType=daily-question&envId=2026-05-07)|Done|
 | 08   | 08-05-2026 |3629   |Minimum Jumps to Reach End via Prime Teleportation|[Link🔗](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/description/?envType=daily-question&envId=2026-05-08)|Done|
+| 09   | 09-05-2026 |1914   |Cyclically Rotating a Grid|[Link🔗](https://leetcode.com/problems/cyclically-rotating-a-grid/description/?envType=daily-question&envId=2026-05-09)|Done|
+| 10   | 10-05-2026 |2770   |Maximum Number of Jumps to Reach the Last Index|[Link🔗](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/?envType=daily-question&envId=2026-05-10)|Done|
 
 
 > 📌 Updating this daily...
