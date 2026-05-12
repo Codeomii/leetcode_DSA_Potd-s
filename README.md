@@ -128,6 +128,8 @@ DSA-POTD/
 | 08   | 08-05-2026 |3629   |Minimum Jumps to Reach End via Prime Teleportation|[Link🔗](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/description/?envType=daily-question&envId=2026-05-08)|Done|
 | 09   | 09-05-2026 |1914   |Cyclically Rotating a Grid|[Link🔗](https://leetcode.com/problems/cyclically-rotating-a-grid/description/?envType=daily-question&envId=2026-05-09)|Done|
 | 10   | 10-05-2026 |2770   |Maximum Number of Jumps to Reach the Last Index|[Link🔗](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/?envType=daily-question&envId=2026-05-10)|Done|
+| 11   | 11-05-2026 |2553   |Separate the Digits in an Array|[Link🔗](https://leetcode.com/problems/separate-the-digits-in-an-array/description/?envType=daily-question&envId=2026-05-11)|Done|
+| 12   | 12-05-2026 |1665   |Minimum Initial Energy to Finish Tasks|[Link🔗](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/description/?envType=daily-question&envId=2026-05-12)|Done|
 
 
 > 📌 Updating this daily...
