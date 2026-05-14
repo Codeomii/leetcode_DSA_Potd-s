@@ -131,6 +131,7 @@ DSA-POTD/
 | 11   | 11-05-2026 |2553   |Separate the Digits in an Array|[Link🔗](https://leetcode.com/problems/separate-the-digits-in-an-array/description/?envType=daily-question&envId=2026-05-11)|Done|
 | 12   | 12-05-2026 |1665   |Minimum Initial Energy to Finish Tasks|[Link🔗](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/description/?envType=daily-question&envId=2026-05-12)|Done|
 | 13   | 13-05-2026 |1674   |Minimum Moves to Make Array Complementary|[Link🔗](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/description/?envType=daily-question&envId=2026-05-13)|Done|
+| 14   | 14-05-2026 |2784   |Check if Array is Good|[Link🔗](https://leetcode.com/problems/check-if-array-is-good/description/?envType=daily-question&envId=2026-05-14)|Done|
 
 
 > 📌 Updating this daily...
