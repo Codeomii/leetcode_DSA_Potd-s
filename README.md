@@ -170,3 +170,15 @@ This repo keeps me accountable and helps track my DSA growth over time.
 If you're also on a DSA journey, feel free to connect and grow together 🚀
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
