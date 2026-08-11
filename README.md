@@ -177,11 +177,13 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0001-two-sum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0001-two-sum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -202,4 +204,8 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
