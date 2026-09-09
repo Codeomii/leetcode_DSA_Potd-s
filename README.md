@@ -225,4 +225,8 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0940-distinct-subsequences-ii) |
+## Math
+|  |
+| ------- |
+| [3871-count-commas-in-range-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3871-count-commas-in-range-ii) |
 <!---LeetCode Topics End-->
