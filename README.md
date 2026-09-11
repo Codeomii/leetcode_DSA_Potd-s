@@ -179,6 +179,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [0001-two-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0001-two-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -186,6 +187,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | ------- |
 | [0001-two-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0001-two-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3483-unique-3-digit-even-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -241,4 +243,12 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
