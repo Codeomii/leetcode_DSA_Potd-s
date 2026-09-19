@@ -244,6 +244,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3871-count-commas-in-range-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
 |  |
@@ -274,6 +275,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Two Pointers
 |  |
 | ------- |
