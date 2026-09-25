@@ -193,6 +193,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0001-two-sum) |
+| [1096-brace-expansion-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -201,6 +202,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1096-brace-expansion-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
@@ -222,6 +224,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -236,6 +239,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
@@ -305,4 +309,12 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
