@@ -242,6 +242,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1096-brace-expansion-ii) |
@@ -254,6 +255,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -322,6 +324,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -335,6 +338,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
