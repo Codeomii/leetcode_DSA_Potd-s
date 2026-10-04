@@ -245,6 +245,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [0022-generate-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -259,6 +260,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [0022-generate-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -312,6 +314,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
@@ -333,6 +336,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -343,6 +347,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [0020-valid-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
