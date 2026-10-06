@@ -244,6 +244,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [0020-valid-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0856-score-of-parentheses) |
