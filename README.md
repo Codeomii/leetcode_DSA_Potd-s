@@ -205,6 +205,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0100-same-tree) |
 | [1096-brace-expansion-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1096-brace-expansion-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -282,14 +283,17 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0100-same-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0100-same-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0100-same-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
