@@ -192,6 +192,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [3524-find-x-value-of-array-i](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3904-smallest-stable-index-ii) |
@@ -209,6 +210,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -241,6 +243,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
