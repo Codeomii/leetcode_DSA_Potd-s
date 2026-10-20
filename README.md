@@ -196,6 +196,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -248,6 +249,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3886-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -301,6 +303,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3886-sum-of-sortable-integers) |
 ## Tree
 |  |
 | ------- |
@@ -329,6 +332,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
