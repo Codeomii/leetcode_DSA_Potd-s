@@ -278,6 +278,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -299,6 +300,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [0836-rectangle-overlap](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
