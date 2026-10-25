@@ -178,6 +178,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | ------- |
 | [0001-two-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0001-two-sum) |
 | [0835-image-overlap](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -221,6 +222,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [0100-same-tree](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0100-same-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1254-number-of-closed-islands) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
@@ -234,6 +236,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -319,6 +322,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0100-same-tree) |
+| [1254-number-of-closed-islands](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -426,6 +430,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
