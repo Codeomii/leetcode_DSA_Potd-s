@@ -232,10 +232,12 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -249,6 +251,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -290,6 +293,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [2409-count-days-spent-together](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
