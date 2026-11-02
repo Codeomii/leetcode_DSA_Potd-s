@@ -177,6 +177,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0001-two-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -257,6 +258,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -315,6 +317,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
