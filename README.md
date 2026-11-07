@@ -185,6 +185,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1882-process-tasks-using-servers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2747-count-zero-request-servers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2747-count-zero-request-servers) |
@@ -244,6 +245,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1882-process-tasks-using-servers) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
