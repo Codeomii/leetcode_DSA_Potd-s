@@ -197,6 +197,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3483-unique-3-digit-even-numbers) |
@@ -290,6 +291,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -422,6 +424,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Segment Tree
