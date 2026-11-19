@@ -191,6 +191,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [1882-process-tasks-using-servers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -282,6 +283,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -423,6 +425,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3727-maximum-alternating-sum-of-squares) |
