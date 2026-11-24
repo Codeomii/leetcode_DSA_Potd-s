@@ -203,6 +203,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3483-unique-3-digit-even-numbers) |
@@ -365,6 +366,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3525-find-x-value-of-array-ii) |
@@ -408,6 +410,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
@@ -449,6 +452,7 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Segment Tree
@@ -569,4 +573,8 @@ If you're also on a DSA journey, feel free to connect and grow together 🚀
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Codeomii/leetcode_DSA_Potd-s/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
